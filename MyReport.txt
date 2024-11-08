@@ -1,0 +1,9 @@
+Student Report:
+Name: Naoyuki
+Mark 1: 78%
+Mark 2: 87%
+Mark 3: 99%
+
+Data added and saved successfully.
+Average mark: 88.00
+Highest mark: 99
